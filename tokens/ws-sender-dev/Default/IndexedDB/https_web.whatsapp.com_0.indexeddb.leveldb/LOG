@@ -1,0 +1,47 @@
+2023/08/06-11:40:15.250 79fa Creating DB /home/isaac/Documentos/Linguagens/Node projetos/apizap/tokens/ws-sender-dev/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/08/06-11:40:15.281 79fa Reusing MANIFEST /home/isaac/Documentos/Linguagens/Node projetos/apizap/tokens/ws-sender-dev/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/06-11:40:15.414 7a08 Level-0 table #5: started
+2023/08/06-11:40:15.425 7a08 Level-0 table #5: 7457 bytes OK
+2023/08/06-11:40:15.432 7a08 Delete type=0 #3
+2023/08/06-11:40:15.433 79fd Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/08/06-11:40:18.785 79fb Level-0 table #7: started
+2023/08/06-11:40:18.798 79fb Level-0 table #7: 27026 bytes OK
+2023/08/06-11:40:18.801 79fb Delete type=0 #4
+2023/08/06-11:40:18.802 79fa Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/08/06-11:41:16.034 79fb Level-0 table #9: started
+2023/08/06-11:41:16.178 79fb Level-0 table #9: 1136570 bytes OK
+2023/08/06-11:41:16.183 79fb Delete type=0 #6
+2023/08/06-11:41:18.006 79fb Compacting 1@0 + 1@1 files
+2023/08/06-11:41:18.105 79fb Generated table #10@0: 26226 keys, 824990 bytes
+2023/08/06-11:41:18.105 79fb Compacted 1@0 + 1@1 files => 824990 bytes
+2023/08/06-11:41:18.108 79fb compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/06-11:41:22.500 79fb Level-0 table #12: started
+2023/08/06-11:41:22.558 79fb Level-0 table #12: 1078528 bytes OK
+2023/08/06-11:41:22.561 79fb Delete type=0 #8
+2023/08/06-11:41:22.561 79fb Delete type=2 #7
+2023/08/06-11:41:22.562 79fb Delete type=2 #9
+2023/08/06-11:41:22.570 79fd Compacting 1@0 + 1@1 files
+2023/08/06-11:41:22.761 79fd Generated table #13@0: 51941 keys, 1540380 bytes
+2023/08/06-11:41:22.761 79fd Compacted 1@0 + 1@1 files => 1540380 bytes
+2023/08/06-11:41:22.765 79fd compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/06-11:41:23.544 79fb Level-0 table #15: started
+2023/08/06-11:41:23.597 79fb Level-0 table #15: 879513 bytes OK
+2023/08/06-11:41:23.605 79fb Delete type=2 #12
+2023/08/06-11:41:23.605 79fb Delete type=0 #11
+2023/08/06-11:41:23.605 79fb Delete type=2 #10
+2023/08/06-11:41:23.609 79fb Compacting 1@0 + 1@1 files
+2023/08/06-11:41:23.822 79fb Generated table #16@0: 75282 keys, 2132096 bytes
+2023/08/06-11:41:23.822 79fb Compacted 1@0 + 1@1 files => 2132096 bytes
+2023/08/06-11:41:23.826 79fb compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/06-11:41:23.827 79fb Delete type=2 #13
+2023/08/06-11:41:23.827 79fb Delete type=2 #15
+2023/08/06-11:41:25.185 79fa Level-0 table #18: started
+2023/08/06-11:41:25.257 79fa Level-0 table #18: 871213 bytes OK
+2023/08/06-11:41:25.265 79fa Delete type=0 #14
+2023/08/06-11:41:25.452 79fd Compacting 1@0 + 1@1 files
+2023/08/06-11:41:25.634 79fd Generated table #19@0: 89700 keys, 2264650 bytes
+2023/08/06-11:41:25.647 79fd Generated table #20@0: 5943 keys, 173767 bytes
+2023/08/06-11:41:25.647 79fd Compacted 1@0 + 1@1 files => 2438417 bytes
+2023/08/06-11:41:25.650 79fd compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/08/06-11:41:25.651 79fd Delete type=2 #18
+2023/08/06-11:41:25.651 79fd Delete type=2 #16
