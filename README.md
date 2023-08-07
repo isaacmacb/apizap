@@ -15,5 +15,5 @@ npm i --save venom-bot
 ---------------------------------------------------------------------------------
 observação: se der o git clone, exclua a pasta tokens, a api só roda se tive os tokens sendo gerada pelo seu whatsapp apos conectar
 
-observação 2: faça requisições no get e post
+observação 2: faça requisições no get e post.
 observação 3: atualize seu node (node 16.0.0) inferior não roda.
